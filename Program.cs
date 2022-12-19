@@ -19,7 +19,6 @@ switch (n)
 }
 void Task66()
 {
-   {
     Console.WriteLine("Введите число m");
     int m = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("Введите число n");
@@ -44,7 +43,7 @@ void Task66()
         }
     }
 }
-}
+
 void Task68()
 {
     Console.WriteLine("Введите число m");
